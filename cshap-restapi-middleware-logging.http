@@ -1,0 +1,6 @@
+@cshap_restapi_middleware_logging_HostAddress = http://localhost:5099
+
+GET {{cshap_restapi_middleware_logging_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,24 @@
+# Ignore Visual Studio temporary files, build results, and
+# user-specific files
+
+# Build results
+bin/
+obj/
+Logs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.DS_Store
+
+# Backup and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Other common folders
+.vscode/
+.idea/
